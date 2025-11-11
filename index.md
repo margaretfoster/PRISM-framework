@@ -17,18 +17,21 @@ As a framework, PRISM unifies similar methodological and substantive efforts acr
 
 PRISM bridges mainstream research-design frameworks with hostile data environments and is intended as a tool for scholars and practitioners working in domains where key mechanisms are strategically concealed or structurally unobservable.
 
-
 ---
-
-### 🧩 Core Components
-
-| Step | Concept | Goal |
-|------|----------|------|
-| **P** | *Problem definition under opacity* | Identify how the target data is absent, unmeasurable, or strategically hidden |
-| **R** | *Representation and reconstruction* | Build structured proxies or embeddings of latent systems |
-| **I** | *Inference with aligned causal models* | Use causal and explainable ML frameworks to estimate counterfactual structure |
-| **S** | *Stability and substitutability testing* | Assess whether results hold across alternative representations |
-| **M** | *Mechanism articulation* | Translate model insight back into interpretable causal narratives |
+## Core Process Flow:
+```mermaid
+flowchart TD
+    A[1️⃣ Diagnose the Problem<br/>Identify mechanism & observability limits<br/>Clarify structural vs. strategic missingness] --> 
+    B[2️⃣ Map the Hidden System<br/>Formalize unobservable process<br/>Link hidden states to observable touchpoints] -->
+    C[3️⃣ Structure Using Theory<br/>Translate theory into observable implications<br/>Define expected patterns & alternatives] -->
+    D[4️⃣ Trace Capture<br/>Identify and collect accessible traces<br/>Texts, trade flows, reports, sensors] -->
+    E[5️⃣ Measurement<br/>Transform traces into features<br/>Validate extraction via theory & case knowledge] -->
+    F[6️⃣ Estimation & Indirect Identification<br/>Run statistical / ML estimation<br/>Triangulate across indirect evidence] -->
+    G[7️⃣ Plausibility, Refutation, Sensitivity<br/>Assess consistency, effect size, alternative explanations] -->
+    H[8️⃣ Theory as Compass<br/>Re-evaluate results through theoretical scaffolding<br/>Define scope conditions and limitations]
+    
+    classDef core fill:#f6f8fa,stroke:#333,stroke-width:1px;
+    class A,B,C,D,E,F,G,H core;
 
 ---
 
