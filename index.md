@@ -25,14 +25,14 @@ PRISM bridges mainstream research-design frameworks with hostile data environmen
 Explore the steps:
 <h3 align="left">Explore the PRISM Framework</h3>
 
-<p align="center">
+<p align="left">
   <a href="framework/Design/overview.md">Design</a> •
   <a href="Measurement-Trace/overview.md">Trace & Measurement</a> •
   <a href="Estimation/overview.md">Estimation</a> •
   <a href="Evaluation/overview.md">Evaluation</a> •
 </p>
 
-<h3 align="center">Contexual Relationships</h3>
+<h3 align="left">Contexual Relationships</h3>
 
 <a href="framework/scope_conditions.md">Scope Conditions</a> •
   <a href="framework/related_work.md">Intellectual Lineage and Related Work</a>
