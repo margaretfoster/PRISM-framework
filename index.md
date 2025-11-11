@@ -41,9 +41,7 @@ The schematic below outlines the PRISM design sequence.
 
 Formally, PRISM models inference as:
 
-\[
-T \rightarrow \hat{Z} \rightarrow Y
-\]
+$T \rightarrow \hat{Z} \rightarrow Y$
 
 where **T** are observed traces, **Ẑ** represents latent or hidden mechanisms, and **Y** is the outcome of interest.  
 The framework provides a structured pathway for converting partial and strategically obscured traces (**T**) into defensible inference about hidden mechanisms (**Ẑ**) and their consequences (**Y**).
@@ -99,5 +97,15 @@ For collaboration or feedback:
 [m.jenkins.foster@gmail.com](mailto:m.jenkins.foster@gmail.com)
 
 ---
+
+<!-- MathJax for LaTeX rendering -->
+<script>
+  window.MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},
+    svg: {fontCache: 'global'}
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+
 
 © 2025 Margaret J. Foster · Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · View on [GitHub](https://github.com/margaretfoster/PRISM-framework)
