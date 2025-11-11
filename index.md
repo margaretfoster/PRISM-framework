@@ -33,9 +33,9 @@ flowchart TD
 
 ### Why PRISM?
 
-- PRISM provies a tool menu and workflow to structure design for inference in _negative spaces_ where data is absent 
-- It bridges social-science theory, qualitative epistemology, and machine-learning formalism, so that researchers can develop project scaffolding using all three as supports.
-- It suggests avenues to generate testable hypotheses and quantitative metrics in opaque domains
+- PRISM provides a tool menu and workflow to structure design for inference in _negative spaces_ where data is absent 
+- It bridges social-science theory, qualitative designs, and machine-learning formalism, so that researchers can develop project scaffolding reinforced by all three traditions
+- The framework suggests avenues to generate testable hypotheses and quantitative metrics in opaque domains
 - It is designed to grow through engagement and be extended through open notebooks, examples, modular code, and whitepapers
 
 ---
