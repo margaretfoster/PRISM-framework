@@ -1,0 +1,8 @@
+title: "Inference under Opacity"
+description: "PRISM Framework v1.0 – inference, measurement, and mechanism design under strategic opacity"
+theme: jekyll-theme-minimal
+logo: /assets/img/prism_logo.png
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/margaretfoster/inference-under-opacity
