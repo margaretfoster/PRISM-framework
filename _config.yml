@@ -1,8 +1,37 @@
-title: "Inference under Opacity"
-description: "PRISM Framework v1.0 – inference, measurement, and mechanism design under strategic opacity"
-theme: jekyll-theme-minimal
-logo: /assets/img/prism_logo.png
-show_downloads: false
-github:
-  is_project_page: true
-  repository_url: https://github.com/margaretfoster/inference-under-opacity
+# _config.yml
+
+title: "PRISM Framework"
+description: "Inference under partial observability and strategic opacity"
+remote_theme: mmistakes/minimal-mistakes@4.26.0
+url: "https://margaretfoster.github.io"
+baseurl: "/PRISM-framework"
+repository: "margaretfoster/PRISM-framework"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Author info
+author:
+  name: "Margaret J. Foster"
+  email: "m.jenkins.foster@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/margaretfoster"
+
+# Layout defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      classes: wide
+
+# Analytics & SEO
+seo:
+  type: "Website"
+  name: "PRISM Framework"
+  description: "A structured framework for inference in partially observable and adversarial systems."
