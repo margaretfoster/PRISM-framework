@@ -26,10 +26,10 @@ Explore the steps:
 <h3 align="center">Explore the PRISM Framework</h3>
 
 <p align="center">
-  <a href="framework/design/diagnosis.md">Design</a> •
-  <a href="framework/trace_measurement/trace_capture.md">Trace & Measurement</a> •
-  <a href="framework/estimation/estimation_methods.md">Estimation</a> •
-  <a href="framework/evaluation/design_evaluation.md">Evaluation</a>
+  <a href="framework/Design/overview.md">Design</a> •
+  <a href="framework/Measurement-Trace/overview.md">Trace & Measurement</a> •
+  <a href="framework/Estimation/overview.md">Estimation</a> •
+  <a href="framework/Evaluation/overview.md">Evaluation</a>
 </p>
 
 ### Why PRISM?
