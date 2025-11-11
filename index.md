@@ -1,7 +1,7 @@
 # The PRISM Framework v1.0  
 **Inference under Opacity**
 
-_Reasoning about hidden, adversarial, strategically opaque, and negative-space systems._
+_Reasoning about negative space: adversarial, hidden, and strategically opaque systems._
 
 ---
 
