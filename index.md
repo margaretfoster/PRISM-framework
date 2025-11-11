@@ -13,8 +13,9 @@ The framework emerges from computational social science work on clandestine orga
 
 Core to the framework is a **Design -> Trace & Measurement → Estimation & Inference -> Evaluation** workflow. The flow anchors work within empirical social science and machine learning architectures while recognizing that inferential work in opaque and adversarial systems often requires creation of bespoke indirect features. 
 
-## PRISM Framework Flow
+## Core Process Flow
 
+The following image provides an overview of the recommended PRISM flow. 
 <div align="center">
   <img src="assets/img/index_flow.svg" alt="PRISM Framework Flow" width="95%">
 </div>
@@ -23,19 +24,15 @@ As a framework, PRISM unifies similar methodological and substantive efforts acr
 
 PRISM bridges mainstream research-design frameworks with hostile data environments and is intended as a tool for scholars and practitioners working in domains where key mechanisms are strategically concealed or structurally unobservable.
 
----
-## Core Process Flow:
-```mermaid
-flowchart TD
-    A["1. Diagnose the problem"] --> B["2. Map the hidden system"]
-    B --> C["3. Structure using theory"]
-    C --> D["4. Trace capture"]
-    D --> E["5. Measurement (convert traces to features)"]
-    E --> F["6. Estimation and indirect identification"]
-    F --> G["7. Plausibility, refutation, sensitivity"]
-    G --> H["8. Theory as compass"]
-```
----
+Explore the steps:
+<h3 align="center">Explore the PRISM Framework</h3>
+
+<p align="center">
+  <a href="framework/design/diagnosis.md">Design</a> •
+  <a href="framework/trace_measurement/trace_capture.md">Trace & Measurement</a> •
+  <a href="framework/estimation/estimation_methods.md">Estimation</a> •
+  <a href="framework/evaluation/design_evaluation.md">Evaluation</a>
+</p>
 
 ### Why PRISM?
 
