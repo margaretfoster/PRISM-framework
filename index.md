@@ -11,7 +11,13 @@ _Designing defensible inference and measurement in negative spaces: adversarial,
 
 The framework emerges from computational social science work on clandestine organizational structures. It brings together research design flow from qualitative social science, structure from causal inference logic, and the measurement tools of computational social science. The end goal is to help researchers design rigorous estimation and inferential approaches in hard-to-measure domains. 
 
-Core to the framework is a **trace → measurement → inference** workflow.
+Core to the framework is a **Design -> Trace & Measurement → Estimation & Inference -> Evaluation** workflow. The flow anchors work within empirical social science and machine learning architectures while recognizing that inferential work in opaque and adversarial systems often requires creation of bespoke indirect features. 
+
+## PRISM Framework Flow
+
+<div align="center">
+  <img src="assets/img/index_flow.svg" alt="PRISM Framework Flow" width="95%">
+</div>
 
 As a framework, PRISM unifies similar methodological and substantive efforts across applied social science, computational social science, and applied machine learning.
 
