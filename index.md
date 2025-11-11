@@ -14,7 +14,7 @@ Core to the framework is a **Design -> Trace & Measurement → Estimation & Infe
 ## Core Process Flow
 
 The following image provides an overview of the recommended PRISM flow. 
-<div align="center">
+<div align="left">
   <img src="assets/img/index_flow.svg" alt="PRISM Framework Flow" width="95%">
 </div>
 
@@ -23,7 +23,7 @@ As a framework, PRISM unifies similar methodological and substantive efforts acr
 PRISM bridges mainstream research-design frameworks with hostile data environments and is intended as a tool for scholars and practitioners working in domains where key mechanisms are strategically concealed or structurally unobservable.
 
 Explore the steps:
-<h3 align="center">Explore the PRISM Framework</h3>
+<h3 align="left">Explore the PRISM Framework</h3>
 
 <p align="center">
   <a href="framework/Design/overview.md">Design</a> •
@@ -32,7 +32,6 @@ Explore the steps:
   <a href="Evaluation/overview.md">Evaluation</a> •
 </p>
 
-Explore the steps:
 <h3 align="center">Contexual Relationships</h3>
 
 <a href="framework/scope_conditions.md">Scope Conditions</a> •
