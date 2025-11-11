@@ -65,7 +65,7 @@ The framework provides a structured pathway for converting partial and strategic
 
 - Provides a structured design pattern for inference in *negative spaces* where data are absent or adversarial  
 - Bridges social-science theory, qualitative designs, and machine-learning formalism, enabling theory-driven yet scalable workflows  
-- Suggests pathways to generate testable hypothese and quantitative metrics in opaque domains  
+- Suggests pathways to generate testable hypotheses and quantitative metrics in opaque domains  
 
 ### Use PRISM when:
 - Key mechanisms are hidden by design  
