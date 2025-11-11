@@ -30,9 +30,14 @@ Explore the steps:
   <a href="Measurement-Trace/overview.md">Trace & Measurement</a> •
   <a href="Estimation/overview.md">Estimation</a> •
   <a href="Evaluation/overview.md">Evaluation</a> •
-  <a href="framework/scope_conditions.md">Scope Conditions</a> •
-  <a href="framework/related_work.md">Intellectual Lineage and Related Work</a>
 </p>
+
+Explore the steps:
+<h3 align="center">Contexual Relationships</h3>
+
+<a href="framework/scope_conditions.md">Scope Conditions</a> •
+  <a href="framework/related_work.md">Intellectual Lineage and Related Work</a>
+
 
 ### Why PRISM?
 
