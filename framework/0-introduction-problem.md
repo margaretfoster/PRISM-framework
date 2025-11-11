@@ -1,4 +1,4 @@
-## Introduction and Problem
+## PRISM: Introduction and Problem
 
 Many high-stakes domains, from national security to model interpretation, are driven by mechanisms that are structurally unobservable. Further complicating analysis, data in these domains are often emergent, strategically obscured, or otherwise hostile to systematic model building and analysis.  
 
