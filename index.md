@@ -20,7 +20,7 @@ PRISM bridges mainstream research-design frameworks with hostile data environmen
 ---
 ## Core Process Flow:
 ```mermaid
-flowchart LR
+flowchart TD
     A["1. Diagnose the problem"] --> B["2. Map the hidden system"]
     B --> C["3. Structure using theory"]
     C --> D["4. Trace capture"]
