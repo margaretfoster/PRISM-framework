@@ -27,9 +27,9 @@ Explore the steps:
 
 <p align="center">
   <a href="framework/Design/overview.md">Design</a> •
-  <a href="framework/Measurement-Trace/overview.md">Trace & Measurement</a> •
-  <a href="framework/Estimation/overview.md">Estimation</a> •
-  <a href="framework/Evaluation/overview.md">Evaluation</a> •
+  <a href="Measurement-Trace/overview.md">Trace & Measurement</a> •
+  <a href="Estimation/overview.md">Estimation</a> •
+  <a href="Evaluation/overview.md">Evaluation</a> •
   <a href="framework/scope_conditions.md">Scope Conditions</a> •
   <a href="framework/related_work.md">Ins</a>
 </p>
