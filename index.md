@@ -20,19 +20,15 @@ PRISM bridges mainstream research-design frameworks with hostile data environmen
 ---
 ## Core Process Flow:
 ```mermaid
-flowchart TD
-    A[1️⃣ Diagnose the Problem<br/>Identify mechanism & observability limits<br/>Clarify structural vs. strategic missingness] --> 
-    B[2️⃣ Map the Hidden System<br/>Formalize unobservable process<br/>Link hidden states to observable touchpoints] -->
-    C[3️⃣ Structure Using Theory<br/>Translate theory into observable implications<br/>Define expected patterns & alternatives] -->
-    D[4️⃣ Trace Capture<br/>Identify and collect accessible traces<br/>Texts, trade flows, reports, sensors] -->
-    E[5️⃣ Measurement<br/>Transform traces into features<br/>Validate extraction via theory & case knowledge] -->
-    F[6️⃣ Estimation & Indirect Identification<br/>Run statistical / ML estimation<br/>Triangulate across indirect evidence] -->
-    G[7️⃣ Plausibility, Refutation, Sensitivity<br/>Assess consistency, effect size, alternative explanations] -->
-    H[8️⃣ Theory as Compass<br/>Re-evaluate results through theoretical scaffolding<br/>Define scope conditions and limitations]
-    
-    classDef core fill:#f6f8fa,stroke:#333,stroke-width:1px;
-    class A,B,C,D,E,F,G,H core;
-
+flowchart LR
+    A["1) Diagnose the problem"] --> B["2) Map the hidden system"]
+    B --> C["3) Structure using theory"]
+    C --> D["4) Trace capture"]
+    D --> E["5) Measurement (traces → features)"]
+    E --> F["6) Estimation & indirect identification"]
+    F --> G["7) Plausibility, refutation, scope, sensitivity"]
+    G --> H["8) Theory as compass"]
+```
 ---
 
 ### Why PRISM?
