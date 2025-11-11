@@ -24,8 +24,8 @@ flowchart TD
     A["1. Diagnose the problem"] --> B["2. Map the hidden system"]
     B --> C["3. Structure using theory"]
     C --> D["4. Trace capture"]
-    D --> E["5. Measurement (traces → features)"]
-    E --> F["6. Estimation & indirect identification"]
+    D --> E["5. Measurement (convert traces to features)"]
+    E --> F["6. Estimation and indirect identification"]
     F --> G["7. Plausibility, refutation, sensitivity"]
     G --> H["8. Theory as compass"]
 ```
@@ -33,10 +33,10 @@ flowchart TD
 
 ### Why PRISM?
 
-- Moves beyond “data-as-given” to structure approachs for inference in _negative space_ where data is absent 
-- Bridges social-science theory, qualitative epistemology, and machine-learning formalism, so that researchers can develop project scaffolding using all three as supports.
-- Suggests a workflow to generate testable hypotheses and quantitative metrics for opaque domains
-- Designed to be extended through open notebooks, examples, modular code, and whitepapers
+- PRISM provies a tool menu and workflow to structure design for inference in _negative spaces_ where data is absent 
+- It bridges social-science theory, qualitative epistemology, and machine-learning formalism, so that researchers can develop project scaffolding using all three as supports.
+- It suggests avenues to generate testable hypotheses and quantitative metrics in opaque domains
+- It is designed to grow through engagement and be extended through open notebooks, examples, modular code, and whitepapers
 
 ---
 
