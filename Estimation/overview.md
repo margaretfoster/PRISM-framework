@@ -1,7 +1,10 @@
 ## PRISM Step 3: Estimation and Indirect Identification ##
 
 Run the statistical or machine learning estimation method using features derived from traces. 
-Possible estimation approaches: 
+
+
+Possible estimation approaches, including econometric analysis and methodologies for inference in incompletely observed contexts, such as dark or incomplete networks (Everton, Cunningham, Moody) ]
+
 
 - Statistical associations with other, more accessible data
 - Machine learning: how does the process you are interested in generate patterns (or perturb patterns that wouldn't exist without that process)
