@@ -53,7 +53,7 @@ Explore the steps:
 
 If you use or adapt this framework, please cite:
 
-> **Foster, M. J. (2025).** *Inference under Opacity: The PRISM Framework v1.0.*  
+> **Foster, M. J. (2025).** *Inference Under Opacity: The PRISM Framework v1.0.*  
 > [https://margaretfoster.github.io/inference-under-opacity](https://margaretfoster.github.io/inference-under-opacity)
 
 ---
