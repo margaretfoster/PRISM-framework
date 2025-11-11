@@ -18,7 +18,7 @@ nav_order: 1
 
 **PRISM** (Partial-Observation Inference & Structured Measurement) is a methodological framework for reasoning when the structure of the world is only *partially observable*—for example, when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
 
-The framework originated in computational-social-science work on clandestine organizational structures and expands to other “hostile data environments.” It unites three traditions:
+The framework originated in computational social science work on clandestine organizational structures and expands to other “hostile data environments.” It unites three traditions:
 
 - **Research design flow** from qualitative social science  
 - **Causal-inference logic** from econometrics and statistics  
@@ -63,10 +63,9 @@ The framework provides a structured pathway for converting partial and strategic
 
 ## Why PRISM?
 
-- Provides a **structured design pattern** for inference in *negative spaces* where data are absent or adversarial  
-- Bridges **social-science theory**, **qualitative designs**, and **machine-learning formalism**, enabling theory-driven yet scalable workflows  
-- Suggests **pathways to generate testable hypotheses** and quantitative metrics in opaque domains  
-- Designed to **grow through engagement**—extendable via open notebooks, modular code, and applied examples  
+- Provides a structured design pattern for inference in *negative spaces* where data are absent or adversarial  
+- Bridges social-science theory, qualitative designs, and machine-learning formalism, enabling theory-driven yet scalable workflows  
+- Suggests pathways to generate testable hypothese and quantitative metrics in opaque domains  
 
 ### Use PRISM when:
 - Key mechanisms are hidden by design  
@@ -77,8 +76,8 @@ The framework provides a structured pathway for converting partial and strategic
 
 ## Resources
 
-- [**Whitepaper (PDF)**]() — *Coming soon: conceptual and technical foundations*  
-- [**Examples**](examples/) — *Coming soon: applied notebooks and case studies*
+- [**Whitepaper (PDF)**]() — *Conceptual and technical foundations: coming soon*  
+- [**Examples**](examples/) — *Case studies and examples: coming soon*
 
 ---
 
@@ -92,6 +91,8 @@ If you use or adapt this framework, please cite:
 ---
 
 ## Contact
+
+PRISM is designed to grow through engagement and incorporate open notebooks, modular code, and applied examples  
 
 For collaboration or feedback:  
 [m.jenkins.foster@gmail.com](mailto:m.jenkins.foster@gmail.com)
