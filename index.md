@@ -1,6 +1,4 @@
-# The PRISM Framework v1.0  
-**Inference under Opacity**
-
+# PRISM v1.0  
 _Designing defensible inference and measurement in negative spaces: adversarial, hidden, and strategically opaque systems._
 
 ---
