@@ -29,7 +29,7 @@ Explore the steps:
   <a href="framework/Design/overview.md">Design</a> •
   <a href="Measurement-Trace/overview.md">Trace & Measurement</a> •
   <a href="Estimation/overview.md">Estimation</a> •
-  <a href="Evaluation/overview.md">Evaluation</a> •
+  <a href="Evaluation/overview.md">Evaluation</a> 
 </p>
 
 <h3 align="left">Contexual Relationships</h3>
