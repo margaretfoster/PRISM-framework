@@ -16,9 +16,9 @@ nav_order: 1
 
 ## Overview
 
-Partial-Observability Inference & Structured Measurement (**PRISM**) is a methodological framework for reasoning when the structure of the world is only *partially observable*—for example, when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
+Partial-Observability Inference & Structured Measurement (**PRISM**) is a conceptual framework for reasoning when the structure of the world is only *partially observable*—for example, when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
 
-The framework originated in computational social science work on clandestine organizational structures and expands to other “hostile data environments.” It unites three traditions:
+PRISM originated in computational social science work on clandestine organizational structures and expands to other “hostile data environments.” It unites three traditions:
 
 - **Research design flow** from qualitative social science  
 - **Causal-inference logic** from econometrics and statistics  
@@ -26,9 +26,39 @@ The framework originated in computational social science work on clandestine org
 
 PRISM’s goal is to help researchers design *defensible* estimation and inference strategies in hard-to-measure domains.
 
-At its core lies a **Design → Trace & Measurement → Estimation & Inference → Evaluation** workflow.  
-This structure anchors inference within empirical social-science and ML architectures while acknowledging that work in opaque systems often requires *bespoke, indirect features* and *structured human judgment.*
+The core is a **Design → Trace & Measurement → Estimation & Inference → Evaluation** workflow.  
+This flow anchors inference within empirical social-science and ML architectures while acknowledging that work in opaque systems often requires *bespoke, indirect features* and *theory-centered judgment.*
 
+## Who is PRISM for?
+
+The PRISM framework provides a design approach for researchers working on strategically concealed or structurally unobservable processes. It's designed to help organize research design decisions and connect work to established traditions in causal inference and qualitative methods. 
+
+Example users include:
+- Researchers studying militant operations, sanctions evasion, informal economies, or other domains with strategic concealment
+- Teams designing projects where standard data availability assumptions don't hold
+- Analysts working on opaque domains, such as supply chain vulnerabilities and regulatory evasion.
+
+PRISM is most valuable:
+
+- At the early stages of research design, when thinking systematically about what is and is not observable
+- For positioning research on opaque systems relative to the expectations in causal inference and qualitative communities
+  
+
+
+Primary audiences:
+
+- Security and conflict researchers studying militant group operations, clandestine state programs, or terrorism
+- Supply chain and economic analysts investigating sanctions evasion, informal economies, or strategic vulnerabilities in critical materials
+- Computational social scientists bridging causal inference standards and measurement techniques available for hard-to-capture domains
+- Analysts working in domains where ground truth is systematically hidden
+
+## When to use PRISM:
+PRISM is most valuable for research questions that involve strategic concealment or structural unavailability when the phenomenon doesn't leave direct traces, and when one wants to:
+
+- Test theoretical mechanisms rather than just document patterns
+- Make systematic claims across multiple cases or contexts
+- Meet methodological standards for causal inference despite data limitations
+- Defend a research design to audiences expecting rigorous identification strategies
 ---
 
 ## Core Process Flow
@@ -55,7 +85,7 @@ The framework provides a structured pathway for converting partial and strategic
 - [**Estimation & Inference**](Estimation/overview.md)  
 - [**Evaluation**](Evaluation/overview.md)  
 
-### Contextual Material
+### Wider Context
 - [Scope Conditions](framework/scope_conditions.md)  
 - [Intellectual Lineage and Related Work](framework/related_work.md)
 
@@ -63,7 +93,7 @@ The framework provides a structured pathway for converting partial and strategic
 
 ## Why PRISM?
 
-- Provides a structured design pattern for inference in *negative spaces* where data are absent or adversarial  
+- Provides a structured design pattern for inference under opaque conditions, such as where data are absent or adversarial  
 - Bridges social-science theory, qualitative designs, and machine-learning formalism, enabling theory-driven yet scalable workflows  
 - Suggests pathways to generate testable hypotheses and quantitative metrics in opaque domains  
 
@@ -81,6 +111,13 @@ The framework provides a structured pathway for converting partial and strategic
 
 ---
 
+## Status
+
+Version 1.0 (November 2025): Core framework with 4-step workflow, diagnostic questions, and connections to established methodological traditions.
+
+This version provides the conceptual structure and planning guidance. Worked examples, operational tools, and domain-specific guidance will be added in future iterations based on applications and user feedback.
+Contact: [m.jenkins.foster@gmail.com]
+
 ## Citation
 
 If you use or adapt this framework, please cite:
@@ -88,14 +125,6 @@ If you use or adapt this framework, please cite:
 > **Foster, Margaret. J. (2025).** *Inference Under Opacity: The PRISM Framework v1.0.*  
 > [https://margaretfoster.github.io/PRISM-framework](https://margaretfoster.github.io/PRISM-framework)
 
----
-
-## Contact
-
-PRISM is designed to grow through engagement and incorporate open notebooks, modular code, and applied examples  
-
-For collaboration or feedback:  
-[m.jenkins.foster@gmail.com](mailto:m.jenkins.foster@gmail.com)
 
 ---
 
