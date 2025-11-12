@@ -1,6 +1,6 @@
 ---
-title: "PRISM Framework v0.9"
-description: "Inference under partial observability and strategic opacity"
+title: "PRISM Framework"
+description: "A multi-discipline roadmap for inference under opacity"
 layout: home
 nav_order: 1
 ---
