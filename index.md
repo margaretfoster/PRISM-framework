@@ -1,15 +1,15 @@
 ---
-title: "PRISM Framework v1.0"
+title: "PRISM Framework v0.9"
 description: "Inference under partial observability and strategic opacity"
 layout: home
 nav_order: 1
 ---
 
-# PRISM v1.0  
+# PRISM v0.9  
 *A framework for inference under partial observability and adversarial data-generation processes.*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Version](https://img.shields.io/badge/version-1.0--beta-blue)
+![Version](https://img.shields.io/badge/version-0.9--beta-blue)
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 
 ---
