@@ -3,7 +3,10 @@
 **Research Question:**  
 Do recruitment influxes change organizational priorities in clandestine groups?  
 Specifically, did AQAP's behavior shift following major recruitment events in ways consistent with a theorized mechanism of organizational adaptation to the preferences of the rank-and-file. 
+
 **Methods:** `Random Forest` classification on news coverage; `Structural Topic Modeling (STM)` on AQAP documents
+
+**Status** Under review (Nov 2025)
 
 ---
 
