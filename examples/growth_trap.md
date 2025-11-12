@@ -42,10 +42,9 @@ Recruitment influxes create:
 
 
 **Observable Touchpoints:**
-- Attack patterns (behavioral repertoire)
-- Messaging priorities (revealed through propaganda)
-- Target selection (strategic emphasis)
-- Operational tempo
+- Behavioral traces: attack patterns
+- Tactical emphasis: target selection
+- Strategic priorities: messaging and propaganda
 
 **Key Insight:**  
 Multiple behavioral dimensions should shift *coherently* if driven by an organizational mechanism (vs. environmental noise or random variation).
