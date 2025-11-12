@@ -10,6 +10,28 @@ Specifically, did AQAP's behavior shift following major recruitment events in wa
 
 ---
 
+## Takeaway: Computational Methods and Theoretical Structure for inference under opacity
+
+**Methodological Contribution:**  
+Demonstrates how ML tools can operationalize abstract organizational concepts when traditional measurement is impossible.
+
+**Applicability to CSS/ML Audiences:**
+- Demonstration of computational methods in the flow of a substantive social science design 
+- Illustrates principled triangulation for model validation  
+- Demonstrates how domain theory guides feature engineering and interpretation  
+- Provides rigorous inference despite lack of causal identification  
+
+**Theoretical Contribution:**  
+Provides systematic evidence for recruitment-driven organizational change using scalable computational approaches.
+
+**What We Learn:**
+- How to operationalize an indirect research design for a theorized mechanism in a hostile data environment
+- Behavioral and messaging changes cohere temporally and substantively  
+- Computational measurement enables systematic analysis of hidden processes  
+- Triangulation strategy supports inference even without causal identification  
+
+---
+
 ## Step 1: Design
 
 ### Diagnose the Problem
@@ -189,25 +211,4 @@ But triangulated evidence provides rigorous support for the theorized mechanism.
 
 ---
 
-## Computational Methods as Theoretical Probe
-
-**Methodological Contribution:**  
-Demonstrates how ML tools can operationalize abstract organizational concepts when traditional measurement is impossible.
-
-**Applicability to CSS/ML Audiences:**
-- Demonstration of computational methods in the flow of a substantive social science design 
-- Illustrates principled triangulation for model validation  
-- Demonstrates how domain theory guides feature engineering and interpretation  
-- Provides rigorous inference despite lack of causal identification  
-
-**Theoretical Contribution:**  
-Provides systematic evidence for recruitment-driven organizational change using scalable computational approaches.
-
-**What We Learn:**
-- How to operationalize an indirect research design for a theorized mechanism in a hostile data environment
-- Behavioral and messaging changes cohere temporally and substantively  
-- Computational measurement enables systematic analysis of hidden processes  
-- Triangulation strategy supports inference even without causal identification  
-
----
 
