@@ -18,7 +18,9 @@ nav_order: 1
 
 Partial-Observability Inference & Structured Measurement (**PRISM**) is a conceptual framework for reasoning when the structure of the world is only *partially observable*—for example, when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
 
-PRISM originated in computational social science work on clandestine organizational structures and expands to other “hostile data environments.” It unites three traditions:
+PRISM originated in computational social science work on clandestine organizational structures and seeks to extend research design strategies developed there into a general tool usable in other hostile data environments.
+
+It unites three traditions:
 
 - **Research design flow** from qualitative social science  
 - **Causal-inference logic** from econometrics and statistics  
