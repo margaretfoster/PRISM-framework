@@ -1,80 +1,96 @@
-## PRISM Step 3: Estimation and Indirect Identification ##
+## PRISM Step 3: Estimation and Indirect Identification
 
-**NOV 2025: In-Progress Draft**
+**Draft – November 2025**  
+_(Citations to be added)_
 
-## Direct Approaches:
+---
 
-When features derived from traces map relatively cleanly to the process of interest, standard estimation approaches apply. Run statistical or machine learning methods using the measured features alongside more accessible process or outcome data.
+### Direct Approaches
 
-Established tools include:
+When features derived from traces map relatively directly onto the process of interest, standard estimation approaches apply.  
+Statistical and machine-learning methods can be deployed using measured features alongside more observable process or outcome data.
 
-- Econometric analysis with proxy variables
-- Network methodologies for inference in incompletely observed contexts (Everton, Cunningham, Moody)
-- Supervised learning when ground truth is partially available
-      
-# Indirect Inference:
+**Established tools include:**
 
-When data context remains opaque after measurement-- such as when the measurement approaches cover only one facet of the process, ground truth is unknown, or the data otherwise do not allow for clean identification of the theorized process-- inference becomes more challenging. 
+- **Econometric analysis** using proxy or instrumental variables  
+- **Network methodologies** for inference in incompletely observed systems  
+  _(e.g., Everton, Cunningham, Moody)_  
+- **Supervised or weakly supervised learning** where partial ground truth is available  
 
-In these cases, the PRISM Framework draws on the strategies of mixed-methods research and proposes indirect inference through structured triangulation across multiple independent sources. 
+---
 
-The core suggestion is to separate estimation and inference, estimate what one can, and then use patterns in the estimate(s) to draw inferential conclusions.
+### Indirect Inference
 
-## Core Logic:
+When the data environment remains opaque even after measurement—such as when each data source captures only one facet of the process, when ground truth is unavailable, or when the data do not allow clean identification of the theorized mechanism—estimation becomes insufficient on its own.  
 
-When different trace sources capture different dimensions of hidden mechanisms, one can reinforce conclusions through complementary types of evidence. 
+In these contexts, the PRISM Framework draws on strategies from mixed-methods research and proposes **indirect inference** through **structured triangulation** across multiple, ideally independent, sources of evidence.  
+
+The central claim is that separating estimation from inference allows researchers to draw defensible inferential conclusions by interpreting (ideally multimodal) ensembles of estimates.  
+
+---
+
+### Core Logic
+
+When distinct trace sources capture different dimensions of hidden mechanisms, their combined analysis can reinforce or qualify conclusions.  
 
 For example:
-- Event data reveal behaviors, evolution, and response patterns
-- Text can suggest framing and attention
-- Network traces expose relational structure and coordination
-- 
-Although potentially underwhelming individually, statistical or machine learning modeling of each strand of evidence can build a nuanced picture of the difficult-to-access system.
 
-## Interpreting Convergence and Divergence:
-The relationship between independent sources provides information to evaluate systems that are initially resistant to measurement 
+- Event data reveal behavioral patterns, temporal evolution, and reactive dynamics.  
+- Text data indicate framing, discourse, and attention.  
+- Network data captures relational structure and coordination patterns.  
 
-***Convergence across sources*** increases confidence in both the underlying finding and the proposed mechanism. 
-When multiple, ideally independent outcome dimensions align temporally and substantively, this supports the desired inference.
+Although each signal may be weakly informative in isolation, statistical or machine-learning modeling of multiple strands can yield a composite, defensible representation of the underlying system.
 
-***Divergence between sources*** tends not to support a single inferential story.
-Reasons for divergence might include:
+---
 
-- Strategic deception or deliberate misdirection that remains through measurement and triangulation
-- Measurement artifacts or gaps in one or more traces
-- Multiple mechanisms operating simultaneously
-- Empirically unsupported theoretical measurement
+### Interpreting Convergence and Divergence
 
-## Estimation Pathways for Opaque Contexts
+The relationships among independent sources provide leverage for evaluating systems that resist direct measurement.
+
+- __Convergence across sources__ increases confidence in both the inferred pattern and the proposed mechanism.  
+  When multiple, independent outcome dimensions align temporally and substantively, this supports the desired inference.  
+
+- __Divergence between sources__ rarely supports a single inferential story—but it can itself be diagnostic.  
+  Divergence may arise from:  
+  - Strategic deception or deliberate misdirection that persists through measurement  
+  - Measurement artifacts or gaps in one or more trace sources  
+  - Multiple mechanisms operating concurrently  
+  - Empirically unsupported theoretical assumptions  
+
+Understanding these divergences can refine hypotheses and direct further data collection or model development.
+
+---
+
+### Estimation Pathways for Opaque Contexts
 
 Specific strategies for indirect identification include:
 
-- Statistical Association:
+#### 1. Statistical Association
+- Correlate bespoke indicators with more accessible outcome or process data.  
+- Test whether measured traces associate with theoretically predicted consequences.  
+- Use timing and pattern to support mechanistic claims even without full causal identification.
 
-Correlate bespoke measures with more accessible outcome or process data
-Test whether measured traces associate with theoretically predicted consequences
-Use timing and pattern to support mechanistic claims even without causal identification
+#### 2. Pattern Detection
+- Apply machine-learning approaches that identify how hidden processes generate or perturb observable patterns.  
+- Train classification models to distinguish latent organizational states.  
+- Use clustering or dimensionality reduction to reveal underlying structure or regime shifts.  
+  _(e.g., UMAP, embedding-based representations)_
 
-- Pattern Detection:
+#### 3. Qualitative Grounding
+- Conduct case-level validation of quantitative patterns.  
+- Use process tracing to confirm or challenge statistical findings.  
+- Draw on expert knowledge to interpret ambiguous or multi-meaning results.
 
-Machine learning approaches that identify how hidden processes generate or perturb patterns
-Classification models that distinguish organizational states
-Clustering or dimensionality reduction to reveal latent structure
+---
 
-- Qualitative Integration:
+### Inferential Chain Visibility
 
-Case-level validation of quantitative patterns
-Process tracing to confirm or challenge statistical findings
-Expert knowledge to interpret ambiguous results
+Transparency about the inferential chain helps readers evaluate the strength of claims and identify where additional evidence could improve credibility.  
 
-## Inferential Chain Visibility :
+Researchers should clearly specify whether estimates derive from:
 
-Transparency helps readers evaluate the strength of claims and identify where additional evidence would strengthen the inference. Thus, it is important to identify when estimates are derived from:
+- Direct observation of proximate outcomes or traces  
+- Indirect inference via correlated or derivative processes  
+- Theoretical inference where the mechanism is inferred rather than measured  
 
-- Direct observation of proximate outcomes or traces
-- Indirect inference via correlated or derivative processes
-- When the mechanism is inferred rather than measured
-
-
-
-
+---
