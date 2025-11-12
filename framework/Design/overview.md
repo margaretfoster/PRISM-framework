@@ -24,6 +24,6 @@ What patterns would confirm or refute the theorized mechanism versus other alter
 
 Connect to and draw from:
 
-- process tracing patterns to build observable implications of hidden mechanisms (CITES)
-- structured analytic techniques (CITES)
-- causal graphs and DAG logic (Pearl 2009)
+- process tracing patterns to build observable implications of hidden mechanisms
+- structured analytic techniques
+- causal graphs and DAG logic (e.g. Pearl 2009)
