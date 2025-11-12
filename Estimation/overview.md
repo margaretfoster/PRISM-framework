@@ -23,9 +23,9 @@ Statistical and machine-learning methods can be deployed using measured features
 
 When the data environment remains opaque even after measurement—such as when each data source captures only one facet of the process, when ground truth is unavailable, or when the data do not allow clean identification of the theorized mechanism—estimation becomes insufficient on its own.  
 
-In these contexts, the PRISM Framework draws on strategies from mixed-methods research and proposes **indirect inference** through **structured triangulation** across multiple, ideally independent, sources of evidence.  
+In these contexts, the PRISM Framework draws on strategies from mixed-methods research and proposes indirect inference through structured triangulation across multiple, ideally independent and multimodal, sources of evidence.  
 
-The central claim is that separating estimation from inference allows researchers to draw defensible inferential conclusions by interpreting (ideally multimodal) ensembles of estimates.  
+The central claim is that separating estimation from inference allows researchers to draw defensible inferential conclusions by interpreting ensembles of estimates.  
 
 ---
 
