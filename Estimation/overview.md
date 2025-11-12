@@ -1,6 +1,6 @@
 Estimation and Indirect Identification
 
-**Draft – November 2025**  
+**November 2025: In-Progress Draft**  
 _(Citations to be added)_
 
 ---
