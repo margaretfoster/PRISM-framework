@@ -192,7 +192,7 @@ But triangulated evidence provides rigorous support for the theorized mechanism.
 Demonstrates how ML tools can operationalize abstract organizational concepts when traditional measurement is impossible.
 
 **Applicability to CSS/ML Audiences:**
-- Shows computational methods solving substantive social science problems  
+- Demonstration of computational methods in the flow of a substantive social science design 
 - Illustrates principled triangulation for model validation  
 - Demonstrates how domain theory guides feature engineering and interpretation  
 - Provides rigorous inference despite lack of causal identification  
