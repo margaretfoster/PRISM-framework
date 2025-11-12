@@ -1,4 +1,4 @@
-## PRISM Step 3: Estimation and Indirect Identification
+Estimation and Indirect Identification
 
 **Draft – November 2025**  
 _(Citations to be added)_
