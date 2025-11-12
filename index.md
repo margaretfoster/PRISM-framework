@@ -98,7 +98,7 @@ Primary audiences:
 
 ## Resources
 
-- [**Whitepaper (PDF)**]() — *Conceptual and technical foundations: coming soon*  
+- **Whitepaper (PDF)** — *Coming Soon: Conceptual and technical foundations*  
 - [**Examples**](examples/)
     - [Growth Trap](examples/growth_trap.md): Demonstrates how the PRISM framework operationalizes indirect research design in hostile data environments via computational approaches to measurement, triangulation and structured evaluation, and human-in-the-loop domain and theoretical knowledge.
     - [Subject to Change](examples/subject_to_change.md) Full PRISM Design, Trace and Measurement, Inference and Estimation, and Evaluation workflow in the context of designing an approach to capture a dually opaque process (an abstract idea, organizational change, in a concealed space, militant groups) at scale and with robust statistical inference about downstream outcomes.
