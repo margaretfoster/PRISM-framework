@@ -1,4 +1,4 @@
-# PRISM Example: Measuring Organizational Change in Al-Qaeda in the Arabian Peninsula (AQAP)
+# Measuring Organizational Change in Al-Qaeda in the Arabian Peninsula (AQAP)
 
 **Research Question:**  
 Do recruitment influxes change organizational priorities in clandestine groups?  
