@@ -108,9 +108,10 @@ Primary audiences:
 
 ## Status
 
-Version 1.0 (November 2025): Core framework with 4-step workflow, diagnostic questions, and connections to established methodological traditions.
+Version 0.9 (November 2025): Working framework with 4-step workflow, diagnostic questions, and connections to established methodological traditions. 
 
-This version provides the conceptual structure and planning guidance. Worked examples, operational tools, and domain-specific guidance will be added in future iterations based on applications and user feedback.
+This version provides the conceptual structure and initial seed examples.
+Future iterations plan to complete the citations and literature connections, add operational tools, and extend the examples beyond conflict.
 Contact: [m.jenkins.foster@gmail.com]
 
 ## Citation
