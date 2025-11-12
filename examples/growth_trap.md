@@ -2,7 +2,7 @@
 
 **Research Question:**  
 Do recruitment influxes change organizational priorities in clandestine groups?  
-Specifically, did AQAP's behavior shift following major recruitment events in ways consistent with a theorized mechanism of organizational adaptation to the preferences of the base. 
+Specifically, did AQAP's behavior shift following major recruitment events in ways consistent with a theorized mechanism of organizational adaptation to the preferences of the rank-and-file. 
 **Methods:** `Random Forest` classification on news coverage; `Structural Topic Modeling (STM)` on AQAP documents
 
 ---
@@ -75,13 +75,13 @@ Triangulate across data sources — if influx drives organizational change, we s
 
 ### Trace Capture
 
-**Trace Source 1: News Coverage → Attack Patterns**
+**Trace Source 1: Behavioral patterns via operational patterns
 - Event data aggregated from media reporting  
-- **Features:** attack frequency, casualties, target types, geographic distribution, tactical choices  
-- **Limitation:** Media bias toward spectacular events; coverage gaps in remote areas  
+- **Features:** reports that include target types, geographic distribution, tactical choices  
+- **Limitation:** Drive behind framing and reporting might be editorial rather than group behavior, coverage gaps in remote areas, overrepresentation of high-profile events instead of comprehensive behavioral capture
 
-**Trace Source 2: AQAP Documents → Strategic Messaging**
-- **Primary texts:** propaganda videos, *Inspire* magazine, leadership statements  
+**Trace Source 2: Strategic Messaging via propagana and communiques
+- **Primary texts:** propaganda videos, communiques, leadership statements  
 - **Features:** thematic emphasis, rhetorical frames, target audience signals  
 - **Limitation:** Messaging may not reflect actual priorities (deliberate misdirection)
 
@@ -127,31 +127,30 @@ Operationalize “organizational change” from heterogeneous trace data.
 **Inferential Strategy:**  
 Multi-source triangulation to support mechanistic inference without causal identification.
 
-**What’s Observable:**
-- Temporal patterns in attack behavior (`Random Forest`)
+**Directly Observable:**
+- Underlying patterns in operational behavior (`Random Forest`)
 - Thematic shifts in strategic messaging (`STM`)
 - Correlation between behavioral and messaging changes
 
-**What’s Indirect:**
-- Organizational priority shifts (inferred from behavioral + messaging coherence)
+**Indirect:**
+- Organizational priority shifts (inferred from behavioral traces + messaging themes)
 - Causal role of recruitment (supported by timing + pattern, not identified)
 
 **Triangulation Logic:**  
-If recruitment influx drives organizational change, we expect:
-- ✅ Behavioral patterns to shift around influx timing  
-- ✅ Messaging priorities to shift correspondingly  
-- ✅ Changes to be coherent across dimensions (not contradictory)  
-- ✅ Patterns consistent with adaptation logic (not random)  
 
-**Critical Honesty:**  
-This is *not* causal identification — cannot rule out confounding, cannot estimate treatment effects.  
-But triangulated evidence provides rigorous support for theorized mechanism.
+If recruitment influx drives organizational change, we expect:
+-  Behavioral patterns to shift around influx timing  
+-  Messaging priorities to shift correspondingly  
+-  Changes to be coherent across dimensions (not contradictory)  
+-  Patterns consistent with adaptation logic (not random)  
+
+**Scope of Claims:**  
+*Not* causally identified — cannot rule out confounding, cannot estimate treatment effects.  
+But triangulated evidence provides rigorous support for the theorized mechanism.
 
 ---
 
 ## Step 4: Evaluation
-
-### Design Evaluation
 
 #### Plausibility Checks
 - Timing: Do shifts cluster around known recruitment periods?  
@@ -161,18 +160,18 @@ But triangulated evidence provides rigorous support for theorized mechanism.
 
 ---
 
-### Scope
+### Scope Conditions
 
-**Scope Conditions — What We *Can* Claim:**
+**What We *Can* Claim:**
 - Recruitment influxes are associated with systematic behavioral and messaging changes  
-- Multiple independent signals triangulate to same temporal patterns  
-- Pattern consistency supports an organizational mechanism over measurement artifact  
-- Method successfully operationalizes abstract organizational concepts computationally  
+- Multiple independent signals triangulate to the same temporal patterns  
+- Pattern consistency supports an organizational mechanism over a measurement artifact  
+- The measurement strategy operationalizes abstract organizational concepts computationally  
 
 **What We *Cannot* Claim:**
 - Causal effect size of recruitment on organizational change  
 - That recruitment is sufficient or necessary for change  
-- Internal mechanism details (which leaders, which debates drove adaptation)  
+- Internal mechanism details (which specific leaders, position in the hierarchy, or debates drove adaptation)  
 - Generalizability to non-violent clandestine organizations  
 
 ---
@@ -183,7 +182,7 @@ But triangulated evidence provides rigorous support for theorized mechanism.
 - Results depend on media coverage quality  
 - STM topic interpretation requires analyst judgment  
 - Cannot fully disentangle recruitment effects from correlated environmental changes  
-- Model performance bounded by trace data limitations  
+- Model performance is bounded by trace data limitations  
 
 ---
 
@@ -192,7 +191,7 @@ But triangulated evidence provides rigorous support for theorized mechanism.
 **Methodological Contribution:**  
 Demonstrates how ML tools can operationalize abstract organizational concepts when traditional measurement is impossible.
 
-**Why This Matters for CSS/ML Audiences:**
+**Applicability to CSS/ML Audiences:**
 - Shows computational methods solving substantive social science problems  
 - Illustrates principled triangulation for model validation  
 - Demonstrates how domain theory guides feature engineering and interpretation  
@@ -202,7 +201,7 @@ Demonstrates how ML tools can operationalize abstract organizational concepts wh
 Provides systematic evidence for recruitment-driven organizational change using scalable computational approaches.
 
 **What We Learn:**
-- Theorize a mechanism in a hostile data regime with geopolitical importance
+- How to operationalize an indirect research design for a theorized mechanism in a hostile data environment
 - Behavioral and messaging changes cohere temporally and substantively  
 - Computational measurement enables systematic analysis of hidden processes  
 - Triangulation strategy supports inference even without causal identification  
