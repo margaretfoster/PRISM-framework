@@ -16,7 +16,7 @@ nav_order: 1
 
 ## Overview
 
-**PRISM** (Partial-Observation Inference & Structured Measurement) is a methodological framework for reasoning when the structure of the world is only *partially observable*—for example, when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
+**PRISM** (Partial-Observability Inference & Structured Measurement) is a methodological framework for reasoning when the structure of the world is only *partially observable*—for example, when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
 
 The framework originated in computational social science work on clandestine organizational structures and expands to other “hostile data environments.” It unites three traditions:
 
@@ -85,7 +85,7 @@ The framework provides a structured pathway for converting partial and strategic
 
 If you use or adapt this framework, please cite:
 
-> **Foster, M. J. (2025).** *Inference Under Opacity: The PRISM Framework v1.0.*  
+> **Foster, Margaret. J. (2025).** *Inference Under Opacity: The PRISM Framework v1.0.*  
 > [https://margaretfoster.github.io/PRISM-framework](https://margaretfoster.github.io/PRISM-framework)
 
 ---
