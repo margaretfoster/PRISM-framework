@@ -23,19 +23,23 @@ M2: Adaptation against previous goals of organizational leaders.
 - **Structural unavailability:** post-hoc interviews or on-the-ground reporting supports mechanism, but has limited systematic coverage  
 - **Conceptual gap:** No validated measures for “organizational change” in militant groups that scale beyond single-case studies  
 
-**Reframing Strategy:**  
-Pivot from unobservable internal deliberation to observable behavioral manifestations.  
-If recruitment changes organizational priorities, those shifts should leave systematic traces in external behavior.
+**Design Strategy in the Negative Space**  
+Reframe the empirical strategy from unobservable internal deliberation to observable behavioral manifestations:
+
+- If recruitment changes organizational priorities, those shifts should leave systematic traces in external behavior.
+- Multiple behavioral dimensions should shift *coherently* if driven by an organizational mechanism (vs. environmental noise or random variation).
 
 ---
 
 ### Map the Hidden System
 
-**Organizational Theory Scaffold:** Recruitment influxes create:
-- Resource allocation pressures (new members require integration)
-- Factional tensions (new cohorts bring different priorities)
-- Strategic recalibration (expanded capacity enables new operations)
-- Tactical evolution (fresh personnel enable different attack profiles)
+**Organizational Theory Scaffold:** 
+
+Recruitment influxes create:
+- Resource allocation pressures
+- Factional tensions
+- Expanded capacity 
+
 
 **Observable Touchpoints:**
 - Attack patterns (behavioral repertoire)
