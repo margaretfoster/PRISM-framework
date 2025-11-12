@@ -1,5 +1,7 @@
 ## PRISM Step 4: Evaluation
 
+**NOV 2025: In-Progress Draft; Requires exposition and citations**
+
 __Plausibility, Refutation, Scope, and Sensitivity__
 
 Use analytical tools from causal inference and qualitative research design:
