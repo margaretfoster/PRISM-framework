@@ -1,4 +1,4 @@
-## PRISM Step 4: Evaluation
+## Evaluation
 
 **NOV 2025: In-Progress Draft; Requires exposition and citations**
 
