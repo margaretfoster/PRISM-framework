@@ -16,8 +16,7 @@ nav_order: 1
 
 ## Overview
 
-Partial-Observability Inference & Structured Measurement (**PRISM**) is a conceptual framework for reasoning when the structure of the world is only *partially observable*—for example, when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
-
+Partial-Observability Inference & Structured Measurement (**PRISM**) is a conceptual framework for reasoning about processes and mechanisms that are only partially observable in the world, such as when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
 PRISM originated in computational social science work on clandestine organizational structures and seeks to extend research design strategies developed there into a general tool usable in other hostile data environments.
 
 It unites three traditions:
@@ -26,10 +25,10 @@ It unites three traditions:
 - **Causal-inference logic** from econometrics and statistics  
 - **Measurement and representation learning** from computational social science and applied machine learning  
 
-PRISM’s goal is to help researchers design *defensible* estimation and inference strategies in hard-to-measure domains.
+PRISM’s goal is to help researchers design defensible estimation and inference strategies in hard-to-measure domains.
 
 The core is a **Design → Trace & Measurement → Estimation & Inference → Evaluation** workflow.  
-This flow anchors inference within empirical social-science and ML architectures while acknowledging that work in opaque systems often requires *bespoke, indirect features* and *theory-centered judgment.*
+This flow anchors inference within empirical social-science and ML architectures while acknowledging that work in opaque systems often requires bespoke, indirect features and theory-centered judgment.
 
 ## Core Process Flow
 
@@ -44,7 +43,8 @@ Formally, PRISM models inference as:
 $T \rightarrow \hat{Z} \rightarrow Y$
 
 where **T** are observed traces, **Ẑ** represents latent or hidden mechanisms, and **Y** is the outcome of interest.  
-The framework provides a structured pathway for converting partial and strategically obscured traces (**T**) into defensible inference about hidden mechanisms (**Ẑ**) and their consequences (**Y**).
+
+The framework provides a structured pathway for converting partial and strategically obscured traces (**T**) into defensible inferences about hidden mechanisms (**Ẑ**) and their consequences (**Y**).
 
 ---
 
