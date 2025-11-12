@@ -9,13 +9,13 @@
 
 **PRISM Steps Used:**
 1. **Diagnose (Step 1):** Target = actual substitutability; data limited to trade flows and product codes
-2. **Map System (Step 2):** Substitutability depends on technical specs, manufacturing capability, existing relationships
+2. **Map System (Step 2):** Substitutability depends on technical specs, manufacturing capability, and existing relationships
 3. **Trace Design (Step 4):** Altana shipping data, HS codes, firm-level transaction patterns
 4. **Measurement (Step 5):** Network analysis of trade patterns, UMAP embeddings for similarity
 5. **Stopped here:** Analysis remained descriptive (lock-in patterns, network structure) rather than moving to causal inference about what enables/prevents substitution
 
-**Could Extend To:**
-- Step 6-7: Test mechanisms for why substitution fails (technical vs. political barriers)
+**Extension Pathways:**
+- Estimation and Evaluation: Test mechanisms for why substitution fails (technical vs. political barriers)
 - Falsification: Do we see substitution in lower-stakes components?
 - What would be needed: firm-level capability data, policy experiment
 
