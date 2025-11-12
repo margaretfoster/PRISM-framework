@@ -99,7 +99,9 @@ Primary audiences:
 ## Resources
 
 - [**Whitepaper (PDF)**]() — *Conceptual and technical foundations: coming soon*  
-- [**Examples**](examples/) — *Case studies and examples: coming soon*
+- [**Examples**](examples/)
+    - [Growth Trap](examples/growth_trap.md): Demonstrates how the PRISM framework operationalizes indirect research design in hostile data environments via computational approaches to measurement, triangulation and structured evaluation, and human-in-the-loop domain and theoretical knowledge. 
+
 
 ---
 
