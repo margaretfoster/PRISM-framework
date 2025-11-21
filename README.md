@@ -1,14 +1,17 @@
-# PRISM Framework for Inference in Opaque Systems
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Version](https://img.shields.io/badge/version-1.0--beta-blue)
-![Status](https://img.shields.io/badge/status-in%20development-orange)
+# Inference in Opaque Systems
 
 How do we make valid inferences about processes that are deliberately or structurally concealed?  
 
-This question motivates my work. I have approached this problem via applications to militant organizational dynamics, subtext and negotiations in international organizations, hidden scientific communities, and diversifying supply chains for critical materials. 
+I have approached this problem via applications to militant organizational dynamics, subtext and negotiations in international organizations, hidden scientific communities, and diversifying supply chains for critical materials. 
 
-To address this problem **PRISM** — *Partial-Observation Inference & Structured Measurement* — is a methodological framework for reasoning under partial observability and strategic opacity.  
+
+The PRISM (Partial-Observation Inference & Structured Measurement) approach emerges from my research on conducting inference in domains where the ground truth is fundamentally unknowable or unattainable. This site documents and builds the methodological approach that I developed across multiple projects and extends and formalizes it for future users.
+
+I build on existing and insightful work at the intersection of computational social science and machine learning, including <!-- text-as-data; Molly Roberts on censorship; Grimmer/Stewart/King inference with incomplete data/Chris Bail?/ -->
+
+This is a working research program; feedback welcome as I develop these ideas toward a methods paper and potential software implementation.
+
+— is a methodological framework for reasoning under partial observability and strategic opacity.  
 It provides a structured workflow for designing, measuring, and inferring when key mechanisms are hidden by design or data are adversarially generated.
 
 🔗 **Full documentation:** [margaretfoster.github.io/PRISM-framework](https://margaretfoster.github.io/PRISM-framework)
