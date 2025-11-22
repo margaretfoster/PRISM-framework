@@ -4,7 +4,6 @@ Estimation and Indirect Identification
 _(Citations to be added)_
 
 ---
-
 ### Direct Approaches
 
 When features derived from traces map relatively directly onto the process of interest, standard estimation approaches apply.  
@@ -25,7 +24,7 @@ When the data environment remains opaque even after measurement—such as when e
 
 In these contexts, the PRISM Framework draws on strategies from mixed-methods research and proposes indirect inference through structured triangulation across multiple, ideally independent and multimodal, sources of evidence.  
 
-The central claim is that separating estimation from inference allows researchers to draw defensible inferential conclusions by interpreting ensembles of estimates.  
+The central claim is that separating estimation from inference allows researchers to draw defensible inferential conclusions in contexts where no single ideal design exists. Drawing on machine learning, PRISM proposes inference via an ensemble of estimates that together permit a joint assessment of the desired mechanism. 
 
 ---
 
