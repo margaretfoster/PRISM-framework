@@ -5,19 +5,20 @@ layout: home
 nav_order: 1
 ---
 
-# PRISM Working Draft (v0.9)
+# PRISM Working Draft
 *A framework for inference under partial observability and adversarial data-generation processes.*
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Version](https://img.shields.io/badge/version-0.9--beta-blue)
-![Status](https://img.shields.io/badge/status-in%20development-orange)
 
 ---
 
 ## Overview
 
-Partial-Observability Inference & Structured Measurement (**PRISM**) is a conceptual framework for reasoning about processes and mechanisms that are only partially observable in the world, such as when actors, institutions, or technical systems deliberately conceal evidence of the mechanisms or processes we wish to understand.  
-PRISM originated in computational social science work on clandestine organizational structures and seeks to extend research design strategies developed there into a general tool usable in other hostile data environments.
+The PRISM (Partial-Observation Inference & Structured Measurement) approach emerges from my research on conducting inference in domains where the ground truth is fundamentally unknowable or unattainable. This site documents and builds the methodological approach that I developed across multiple projects and extends and formalizes it for future users. 
+
+Through this page, I build a strategy to address the challenge of generating and validating conclusions about the world when one can't observe ground truth. I look to tools and  machine learning — such as ensemble methods and evaluation in the absence of ground truth —and to design frameworks from the causal inference tradition.
+
+Through PRISM, I aim to contribute a methodological framework for reasoning under partial observability and strategic opacity. This project aims to provide a structured workflow for designing, measuring, and inferring when key mechanisms are hidden by design or data are adversarially generated.
+
+I build on existing and insightful work at the intersection of computational social science, machine learning, and substantive domain expertise
 
 It unites three traditions:
 
