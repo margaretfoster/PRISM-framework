@@ -10,7 +10,7 @@ Through this page, I build a response to the challenge of deriving validatable c
 
 Through PRISM, I aim to contribute a methodological framework for reasoning under partial observability and strategic opacity. This project aims to provide a structured workflow for designing, measuring, and inferring when key mechanisms are hidden by design or data are adversarially generated.
 
-I build on existing and insightful work at the intersection of computational social science, machine learning, and substantive domain expertise <!-- including  text-as-data; Molly Roberts on censorship; Grimmer/Stewart/King inference with incomplete data/Chris Bail?/ -->
+I build on existing and insightful work at the intersection of computational social science, machine learning, and substantive domain expertise. <!-- including  text-as-data; Molly Roberts on censorship; Grimmer/Stewart/King inference with incomplete data/Chris Bail?/ -->
 
 This is a working research program; feedback welcome as I develop and apply these ideas.
 
