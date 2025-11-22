@@ -4,15 +4,16 @@ How do we make valid inferences about processes that are deliberately or structu
 
 I have approached this problem via applications to militant organizational dynamics, subtext and negotiations in international organizations, hidden scientific communities, and diversifying supply chains for critical materials. 
 
+The PRISM (Partial-Observation Inference & Structured Measurement) approach emerges from my research on conducting inference in domains where the ground truth is fundamentally unknowable or unattainable. This site documents and builds the methodological approach that I developed across multiple projects and extends and formalizes it for future users. 
 
-The PRISM (Partial-Observation Inference & Structured Measurement) approach emerges from my research on conducting inference in domains where the ground truth is fundamentally unknowable or unattainable. This site documents and builds the methodological approach that I developed across multiple projects and extends and formalizes it for future users.
+Through this page, I build a response to the challenge of deriving validatable conclusions about the world when one can't observe ground truth. I look to traditions developed in machine learning---such as ensemble methods and evaluation in the absence of ground truth-- and design frameworks from the causal inference tradition.
 
-I build on existing and insightful work at the intersection of computational social science and machine learning, including <!-- text-as-data; Molly Roberts on censorship; Grimmer/Stewart/King inference with incomplete data/Chris Bail?/ -->
+Through PRISM, I aim to contribute a methodological framework for reasoning under partial observability and strategic opacity. This project aims to provide a structured workflow for designing, measuring, and inferring when key mechanisms are hidden by design or data are adversarially generated.
 
-This is a working research program; feedback welcome as I develop these ideas toward a methods paper and potential software implementation.
+I build on existing and insightful work at the intersection of computational social science, machine learning, and substantive domain expertise <!-- including  text-as-data; Molly Roberts on censorship; Grimmer/Stewart/King inference with incomplete data/Chris Bail?/ -->
 
-— is a methodological framework for reasoning under partial observability and strategic opacity.  
-It provides a structured workflow for designing, measuring, and inferring when key mechanisms are hidden by design or data are adversarially generated.
+This is a working research program; feedback welcome as I develop and apply these ideas.
+
 
 🔗 **Full documentation:** [margaretfoster.github.io/PRISM-framework](https://margaretfoster.github.io/PRISM-framework)
 
