@@ -1,4 +1,5 @@
 ## PRISM Framework Step 1: Diagnose ## 
+<!--- MJF 11/23: Building out the section in Evernote as well as here; port over. -->
 
 __Diagnosis__
 
