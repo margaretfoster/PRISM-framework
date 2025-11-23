@@ -2,6 +2,13 @@
 <!--- MJF 11/23: Building out the section in Evernote as well as here; port over. - process tracing patterns to build observable implications of hidden mechanisms - structured analytic techniques
 - causal graphs and DAG logic (e.g. Pearl 2009) -->
 
+The first step towards a triangulated measurement of fundamentally unmeasurable concepts is to be clear about the problem space: which elements of the target mechanism or process are unattainable, which may be capturable through cleverness, and where the trade-offs lie.
+
+In designing a generalizable workflow, I use the language of directed acyclic graphs (DAGs) developed by the causal inference community. PRISM leverages the ability of DAGs to formalize and structure work partitioning observable, unobservable, and latent components of a system. DAGs are also useful for decomposing large problems into multiple biased sub-designs and mapping how and where attainable traces arise in a system.
+
+
+
+
 __Diagnosis__
 
 What is the target process or mechanism? What are the observability challenges? Is the absence due to structural holes, strategic concealment, or access limitations? Is the concept fundamentally resistant to measurement, such as a latent or abstract variable? Then identify which elements of the system are observable and which are never accessible, given the constraints. Questions to address:
