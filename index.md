@@ -51,7 +51,7 @@ The framework provides a structured pathway for converting partial and strategic
 
 ## Explore the Framework
 
-- [**Design**](framework/Design/overview.md)  
+- [**Design**](Design/overview.md)  
 - [**Trace & Measurement**](Measurement-Trace/overview.md)  
 - [**Estimation & Inference**](Estimation/overview.md)  
 - [**Evaluation**](Evaluation/overview.md)  
