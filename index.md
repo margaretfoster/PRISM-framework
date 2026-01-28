@@ -1,12 +1,12 @@
 ---
 title: "PRISM Framework"
-description: "A multi-discipline roadmap for inference under opacity"
+description: "A multi-discipline roadmap for inference in adversarial data endivronments"
 layout: home
 nav_order: 1
 ---
 
 # PRISM Working Draft
-*A framework for inference under partial observability and adversarial data-generation processes.*
+*A framework for inference under adversarial data-generation processes.*
 
 ---
 
